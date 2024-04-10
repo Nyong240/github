@@ -15,7 +15,7 @@ class _nameState extends State<name> {
         title: Text('addFile!!'),
       ),
       body: Center(
-        child: Text('add file~~'),
+        child: Text('add file~~고친거야!!'),
       ),
     );
   }
