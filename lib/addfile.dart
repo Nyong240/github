@@ -12,10 +12,10 @@ class _nameState extends State<name> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('addFile!!'),
+        title: Text('addFile!! bbung i ji rong~~~ 2'),
       ),
       body: Center(
-        child: Text('add file~~'),
+        child: Text('add file~~고친거야!!'),
       ),
     );
   }
