@@ -9,8 +9,9 @@ class HongsFile extends StatelessWidget {
       body: Center(
         child: Column(
           children: [
-            Text("hong's file~!"),
-            Icon(Icons.abc),
+            Text("NY's file~!"),
+            ICon(Icons.message),
+            Text('으아아')
           ],
         ),
       ),
