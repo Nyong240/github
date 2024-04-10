@@ -11,7 +11,7 @@ class HongsFile extends StatelessWidget {
           children: [
             Text("NY's file~!"),
             ICon(Icons.message),
-            Text("이거뭐")
+            Text('우왁')
           ],
         ),
       ),
