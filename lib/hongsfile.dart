@@ -12,7 +12,8 @@ class HongsFile extends StatelessWidget {
             Text("NY's file~!"),
             ICon(Icons.message),
             Text('으아아'),
-            Text('어후 지겨웤ㅋㅋㅋㅋㅋㅋ')
+            Text('어후 지겨웤ㅋㅋㅋㅋㅋㅋ'),
+            Text('구만훼!!')
           ],
         ),
       ),
