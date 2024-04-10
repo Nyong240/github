@@ -7,7 +7,12 @@ class HongsFile extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text("hong's file~!"),
+        child: Column(
+          children: [
+            Text("hong's file~!"),
+            Icon(Icons.abc),
+          ],
+        ),
       ),
     );
   }
