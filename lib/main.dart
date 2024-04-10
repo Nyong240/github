@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:github_branch_prac/hongsfile.dart';
+import 'package:github_branch_prac/addfile.dart';
 
 void main() {
   runApp(const MyApp());
@@ -12,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: HongsFile(),
+      home: name(),
     );
   }
 }
